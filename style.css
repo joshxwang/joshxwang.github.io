@@ -1,0 +1,78 @@
+*
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+}
+
+body {
+	font-size: 100%;
+	font-family: 'Lora', Georgia, serif;
+	margin: 80px 80px 80px;
+	max-width: 1000px;
+	-webkit-text-size-adjust: 130%;
+}
+
+h1 {
+	margin: 00px 0px 30px; 
+	font-size: 250%;
+	font-family: 'Lora', Georgia, serif;
+}
+
+h2 {
+	margin: 0px 0px 20px;
+	font-size: 150%;
+	font-family: 'Lora', Georgia, serif;
+}
+
+h3 {
+	margin: 0px 0px 5px;
+	font-size: 100%;
+	font-family: 'Lora', Georgia, serif;
+	font-style: italic;
+}
+
+p {
+	margin: 5px 0px 5px;
+	font-family: 'Lora', Georgia, serif;
+	font-size: 100%;
+	font-style: normal;
+}
+
+
+ol {
+	padding-inline-start: 40px;
+}
+
+ul {
+	padding-inline-start: 40px;
+}
+
+li {
+	margin: 8px 0px 8px;
+}
+
+a:link {
+    /*color:#2471A3; blue*/
+    /*color:#489B97;*/
+	/*color:#509C97;*/
+	color:#77A900;
+    text-decoration:none;
+}
+
+a:visited {
+    /*color:#2471A3;*/
+    /*color:#489B97;*/
+/*    color:#509C97;*/
+	color:#77A900;
+    text-decoration:none;
+}
+
+a:hover {
+	/*color:#2471A3;*/
+	/*color:#489B97;*/
+/*	color:#509C97;*/
+	color:#77A900;
+	/*background-color: #EEF9FF;*/
+/*	background-color: #F6FFFD;*/
+	background-color:#F3FFD7;
+}
